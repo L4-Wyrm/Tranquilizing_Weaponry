@@ -1,6 +1,6 @@
-# Fertilized Eggs Naturally Spawn
+# Tranquilizing Weaponry
 
-Source code of Fertilized Eggs Naturally Spawn
+Source code of Tranquilizing Weaponry
 
 ## Description
 This is full source code of Tranquilizing Weaponry
