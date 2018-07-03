@@ -1,5 +1,7 @@
 # Tranquilizing Weaponry
 
+![Logo](https://raw.githubusercontent.com/L4-Wyrm/Tw/master/Logo/ARK_SRC_LOGO.png "Logo")
+
 Source code of Tranquilizing Weaponry
 
 ## Description
