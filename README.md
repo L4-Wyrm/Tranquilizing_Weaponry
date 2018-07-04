@@ -7,8 +7,8 @@ Source code of Tranquilizing Weaponry
 ## Description
 This is full source code of Tranquilizing Weaponry
 
-## Redistribution
+### Redistribution
 Feel free to use any assets of this modification, also don't forget to credit me as original author!
 
-## Licence
-Licenced under CC BY-NC 4.0
+#### License
+Licensed under [CC BY-NC 4.0](https://github.com/L4-Wyrm/Tw/blob/master/LICENSE)
