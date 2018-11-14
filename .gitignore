@@ -85,7 +85,7 @@ jspm_packages
 # Source files
 
 # Folders
-src/
+src
 
 # File extensions
 *.tga
