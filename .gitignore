@@ -95,6 +95,8 @@ src
 # Files
 desktop.ini
 Thumbs.db
+
+#Tw Files
 T_PoisonHomingMissile_D_Tw.tga
 materials/T_PoisonHomingMissile_D_Tw.tga
 Tw/Maps/Tw_TestMap.umap
